@@ -1,6 +1,4 @@
-### Hi, I'm Enoch 👋
-
-MS Computer Science @ **George Washington University** (Dec 2027). I build AI infrastructure: RAG and MCP servers, LLM serving, and the data systems underneath.
+### Hi! I'm Enoch, an MS Computer Science Graduate @ **George Washington University** (Dec 2027). I build AI infrastructure: RAG and MCP servers, LLM serving, and the data systems underneath.
 
 **What I care about:** spend expensive AI compute only when it's worth it, then measure whether it actually helped.
 
